@@ -932,6 +932,7 @@ img {
 @media screen and (min-width: 767px) {
   .section {
     padding: 7rem 0 2rem;
+    padding-left: 5rem;
   }
 
   .nav {
@@ -1093,10 +1094,6 @@ img {
   }
   .logos__img {
     width: 50px;
-  }
-
-  .footer .section {
-    place-content: initial;
   }
   .footer__container {
     grid-template-columns: repeat(4, max-content);
